@@ -1,0 +1,41 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px){
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px){
+.main-menu ul li{
+	margin-left: 20px;
+}
+.features-area{
+	margin-top: 0;
+	padding-top: 100px;
+}
+.slider-inner h2{
+	font-size: 44px;
+}
+.about-img img{
+	width: 100%;
+}
+.blog-thumb img{
+	width: 100%;
+}
+}
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px){
+
+
+}
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 992px){
+.mean-container a.meanmenu-reveal{
+	background: #505cfd;
+	top: 40px;
+}
+.mean-container .mean-nav{
+margin-top: 55px;}
+
+}
